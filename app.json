@@ -22,11 +22,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package":"com.yourcompany.Demoproject",
-      "versionCode":1
+      "package": "com.yourcompany.Demoproject",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "895eb2bf-c430-4b60-a9ed-677e3ed75c32"
+      }
     }
   }
 }
